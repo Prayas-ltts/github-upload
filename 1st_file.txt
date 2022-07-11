@@ -2,3 +2,4 @@
 2nd line of 1st_file.txt
 3rd line of 1st_file.txt
 5th
+3rd line of 1st_file.txt
